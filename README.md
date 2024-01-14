@@ -19,7 +19,7 @@
 
 
 <h2>Languages and Tools:</h2>
-I am familiar with: 
+<p align="center">I am familiar with: </p>
 <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,github" alt="My Skills"/>
