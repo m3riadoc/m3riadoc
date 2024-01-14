@@ -12,7 +12,6 @@
 
 -  🔭 I'm a beginner front-end developer from Poland looking for my first job in IT.
 -  🌱 I am currently engaged in various projects to enhance my portfolio.
--  💻 Learning <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/> and <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 -  📫 You can reach me here bartoszkozielski1998@gmail.com
 
 
@@ -23,5 +22,10 @@
         <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,github" alt="My Skills"/>
     </a>
 </div>
+
+<h2>Learning</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react	)](https://skillicons.dev)
+
 
 ![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572](https://github.com/m3riadoc/m3riadoc/assets/129390881/4a407434-1f60-4063-ac1f-054847f471e5)
