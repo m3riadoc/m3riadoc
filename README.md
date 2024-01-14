@@ -37,9 +37,11 @@
 <h2>Top Projects:</h2>
 
 <details>
-<summary>Kliknij, aby rozwinąć sekcję</summary>
+<summary>Simply chocolate</summary>
 
-To jest treść rozwijanej sekcji.
+My first biggest group project. Built based on knowledge of HTML, CSS, JavaScript and Node.js.
+
+https://m3riadoc.github.io/simply_chocolate_project/
 
 </details>
 
