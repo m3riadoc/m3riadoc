@@ -36,6 +36,16 @@
 
 <h2>Top Projects:</h2>
 
+<details>
+<summary>Kliknij, aby rozwinąć sekcję</summary>
+
+To jest treść rozwijanej sekcji.
+
+</details>
+
+
+
+
 <br>
 
 
