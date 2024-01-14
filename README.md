@@ -10,7 +10,7 @@
 #
 
 
-<p font="20">About me:</p>
+<h2>About me:</h2>
 
 - I'm a beginner front-end developer from Poland
 - I'm currently working on my portfolio, learning JS, node.js and react
