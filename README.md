@@ -7,13 +7,16 @@
   </a>
 </div>
 
- <h2>About me:</h2>
-       
-  - 🔭 I'm a beginner front-end developer from Poland looking for my first job in IT.</li>
- - 🌱 I am currently engaged in various projects to enhance my portfolio.</li>
- - 📫 You can reach me here bartoszkozielski1998@gmail.com</li>
-     
-  
+<div >
+
+  <div align="left">
+        <h2>About me:</h2>
+        <ul>
+            <li>🔭 I'm a beginner front-end developer from Poland looking for my first job in IT.</li>
+            <li>🌱 I am currently engaged in various projects to enhance my portfolio.</li>
+            <li>📫 You can reach me here bartoszkozielski1998@gmail.com</li>
+        </ul>
+    </div>
   
 </div>
 
