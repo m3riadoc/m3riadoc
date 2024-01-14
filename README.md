@@ -52,7 +52,6 @@ https://m3riadoc.github.io/simply_chocolate_project/
 
 <details>
 <summary>Sample responsive website</summary>
-&nbsp;
 
 
 Website created for html and css exercises.
