@@ -9,3 +9,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=300&random=false&size=30&center=true&width=435&lines=Hello+there!;I'm+Bartosz+Kozielski+" alt="Typing SVG">
   </a>
 </div>
+---
+About me:
+
+I'm a beginner front-end developer from Poland
+I'm currently working on my portfolio, learning JS, node.js and react
+You can reach me here bartoszkozielski1998@gmail.com
