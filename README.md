@@ -20,7 +20,7 @@
   
 </div>
 
-  <div align="right">
+  <div style="float: right; width: 35%">
         <img width="200" height="200" src="https://github.com/m3riadoc/m3riadoc/assets/129390881/70e0ea20-b870-4d7a-a857-3ade9ddb3cb4" alt="peachcat-new"/>
     </div>
 
