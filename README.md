@@ -12,7 +12,9 @@
 
 -  🔭 I'm a beginner front-end developer from Poland looking for my first job in IT.
 -  🌱 I am currently engaged in various projects to enhance my portfolio.
--  💻 Learning [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+-  💻 <div class="centered-content">
+    💻 Learning <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+</div>
 -  📫 You can reach me here bartoszkozielski1998@gmail.com
 
 
