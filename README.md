@@ -14,6 +14,8 @@
 - 🌱 I am currently engaged in various projects to enhance my portfolio.
 - 📫 You can reach me here bartoszkozielski1998@gmail.com
 
+  https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white
+
 
 <br><br><br><br><br>
 
