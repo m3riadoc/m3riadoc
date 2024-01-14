@@ -18,7 +18,7 @@
         </ul>
     </div>
     <div align="right">
-        <img src="https://github.com/m3riadoc/m3riadoc/assets/129390881/70e0ea20-b870-4d7a-a857-3ade9ddb3cb4" alt="peachcat-new"/>
+        <img width="100" height="100" src="https://github.com/m3riadoc/m3riadoc/assets/129390881/70e0ea20-b870-4d7a-a857-3ade9ddb3cb4" alt="peachcat-new"/>
     </div>
 </div>
 
