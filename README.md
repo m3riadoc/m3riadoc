@@ -11,7 +11,7 @@
 <h2>About me:</h2>
 
 - I'm a beginner front-end developer from Poland
-- I'm currently working on my portfolio, learning JS, node.js and react
+- I am currently engaged in various projects to enhance my portfolio.
 - You can reach me here bartoszkozielski1998@gmail.com
 
 
