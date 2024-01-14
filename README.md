@@ -15,7 +15,7 @@
 - 📫 You can reach me here bartoszkozielski1998@gmail.com
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 
 <h2>Languages and Tools:</h2>
