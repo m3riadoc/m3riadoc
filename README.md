@@ -17,7 +17,7 @@
             <li>📫 You can reach me here bartoszkozielski1998@gmail.com</li>
         </ul>
     </div>
-    <div align="right">
+    <div style="float: right>
         <img width="200" height="200" src="https://github.com/m3riadoc/m3riadoc/assets/129390881/70e0ea20-b870-4d7a-a857-3ade9ddb3cb4" alt="peachcat-new"/>
     </div>
 </div>
