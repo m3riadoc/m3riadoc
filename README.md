@@ -8,6 +8,10 @@
 </div>
 
 <img src="https://github.com/m3riadoc/m3riadoc/assets/129390881/70e0ea20-b870-4d7a-a857-3ade9ddb3cb4" width="200" height="200" align="right">
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ### About me:
 - 🔭 I'm a beginner front-end developer from Poland looking for my first job in IT.
