@@ -7,8 +7,6 @@
   </a>
 </div>
 
-#
-
 
 <h2>About me:</h2>
 
