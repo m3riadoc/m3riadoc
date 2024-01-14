@@ -14,6 +14,10 @@
 - 🌱 I am currently engaged in various projects to enhance my portfolio.
 - 📫 You can reach me here bartoszkozielski1998@gmail.com
 
+
+
+
+
 <h2>Languages and Tools:</h2>
 
 <div align="center">
