@@ -9,7 +9,7 @@
 
 
 <div>
-    <div style="float:left; margin-right:10px;">
+    <div align="left">
         <h2>About me:</h2>
         <ul>
             <li>🔭 I'm a beginner front-end developer from Poland looking for my first job in IT.</li>
@@ -17,7 +17,7 @@
             <li>📫 You can reach me here bartoszkozielski1998@gmail.com</li>
         </ul>
     </div>
-    <div style="float:left;">
+    <div align="right">
         <img src="https://github.com/m3riadoc/m3riadoc/assets/129390881/70e0ea20-b870-4d7a-a857-3ade9ddb3cb4" alt="peachcat-new"/>
     </div>
 </div>
