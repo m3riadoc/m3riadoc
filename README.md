@@ -1,6 +1,8 @@
 <img src="https://github.com/m3riadoc/m3riadoc/assets/129390881/763c2a35-5bb3-41eb-9d53-6ccff7807b8e" > 
 
-
+&nbsp;
+&nbsp;
+&nbsp;
 
 <div align="center">
   <a href="https://git.io/typing-svg">
