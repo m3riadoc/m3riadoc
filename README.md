@@ -15,7 +15,7 @@
 - 📫 You can reach me here bartoszkozielski1998@gmail.com
 
   <img src="https://img.shields.io/badge/NVIDIA-RTX4080-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-
+<img src="https://img.shields.io/badge/Intel-Core_i7_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
 
 <br><br><br><br><br>
 
