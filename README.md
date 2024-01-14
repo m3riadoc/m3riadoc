@@ -12,9 +12,9 @@
 
 About me:
 
-I'm a beginner front-end developer from Poland
-I'm currently working on my portfolio, learning JS, node.js and react
-You can reach me here bartoszkozielski1998@gmail.com
+- I'm a beginner front-end developer from Poland
+- I'm currently working on my portfolio, learning JS, node.js and react
+- You can reach me here bartoszkozielski1998@gmail.com
 
 
 Skill set: 
