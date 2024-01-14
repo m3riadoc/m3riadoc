@@ -17,7 +17,7 @@
 - You can reach me here bartoszkozielski1998@gmail.com
 
 
-Skill set: 
+<h2>Skill set:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,github)](https://skillicons.dev)
 
