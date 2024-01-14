@@ -26,6 +26,9 @@
     </a>
 </div>
 
+<br><br>
+
+
 <p align="center">Currently learning: </p>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,react" alt="My Skills"/>
