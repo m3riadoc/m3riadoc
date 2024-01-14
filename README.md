@@ -41,7 +41,8 @@
 &nbsp;
 
 
-My first biggest group project. Built based on knowledge of HTML, CSS, JavaScript and Node.js.
+My first biggest group project. Fully responsive website
+built based on knowledge of HTML, CSS, JavaScript and Node.js.
 
 https://m3riadoc.github.io/simply_chocolate_project/
 
