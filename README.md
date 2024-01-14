@@ -13,8 +13,10 @@
 -  🔭 I'm a beginner front-end developer from Poland looking for my first job in IT.
 -  🌱 I am currently engaged in various projects to enhance my portfolio.
 -  📫 You can reach me here bartoszkozielski1998@gmail.com
+-  
+![peachcat-new](https://github.com/m3riadoc/m3riadoc/assets/129390881/70e0ea20-b870-4d7a-a857-3ade9ddb3cb4)
 
-<div class="tenor-gif-embed" data-postid="22707034" data-share-method="host" data-aspect-ratio="1.06667" data-width="100%"><a href="https://tenor.com/view/peachcat-new-gif-22707034">Peachcat New Sticker</a>from <a href="https://tenor.com/search/peachcat-stickers">Peachcat Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <h2>Languages and Tools:</h2>
 
 <div align="center">
