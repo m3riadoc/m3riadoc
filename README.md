@@ -9,8 +9,9 @@
 
 
 <div>
+  <h2>About me:</h2>
     <div align="left">
-        <h2>About me:</h2>
+        
         <ul>
             <li>🔭 I'm a beginner front-end developer from Poland looking for my first job in IT.</li>
             <li>🌱 I am currently engaged in various projects to enhance my portfolio.</li>
