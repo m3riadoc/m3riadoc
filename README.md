@@ -31,7 +31,7 @@
 
 <p align="center">Currently learning: </p>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,react" alt="My Skills"/>
+<img src="https://skillicons.dev/icons?i=nodejs,react,jquery,redux,sass" alt="My Skills"/>
 </div>
 
 
