@@ -8,8 +8,8 @@
 </div>
 
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-    <div>
+<div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: space-between;">
+    <div style="margin-right: 20px;">
         <h2>About me:</h2>
         <ul>
             <li>🔭 I'm a beginner front-end developer from Poland looking for my first job in IT.</li>
