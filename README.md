@@ -48,7 +48,6 @@ https://m3riadoc.github.io/simply_chocolate_project/
 
 </details>
 
-&nbsp;
 
 <details>
 <summary>Sample responsive website</summary>
