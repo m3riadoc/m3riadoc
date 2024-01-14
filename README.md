@@ -38,6 +38,8 @@
 
 <details>
 <summary>Simply chocolate</summary>
+&nbsp;
+
 
 My first biggest group project. Built based on knowledge of HTML, CSS, JavaScript and Node.js.
 
