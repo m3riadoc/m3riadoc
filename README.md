@@ -8,14 +8,18 @@
 </div>
 
 
-<div>
-    <img width="200" height="200" src="https://github.com/m3riadoc/m3riadoc/assets/129390881/70e0ea20-b870-4d7a-a857-3ade9ddb3cb4" alt="peachcat-new" style="float: right;" />
-    <h2>About me:</h2>
-    <ul>
-        <li>🔭 I'm a beginner front-end developer from Poland looking for my first job in IT.</li>
-        <li>🌱 I am currently engaged in various projects to enhance my portfolio.</li>
-        <li>📫 You can reach me here bartoszkozielski1998@gmail.com</li>
-    </ul>
+<div >
+    <div align="left">
+        <h2>About me:</h2>
+        <ul>
+            <li>🔭 I'm a beginner front-end developer from Poland looking for my first job in IT.</li>
+            <li>🌱 I am currently engaged in various projects to enhance my portfolio.</li>
+            <li>📫 You can reach me here bartoszkozielski1998@gmail.com</li>
+        </ul>
+    </div>
+    <div align="right">
+        <img width="200" height="200" src="https://github.com/m3riadoc/m3riadoc/assets/129390881/70e0ea20-b870-4d7a-a857-3ade9ddb3cb4" alt="peachcat-new"/>
+    </div>
 </div>
 
 
