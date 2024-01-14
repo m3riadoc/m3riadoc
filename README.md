@@ -19,7 +19,7 @@
 
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,,nodejs,react,github" alt="My Skills"/>
+        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,react,github" alt="My Skills"/>
     </a>
 </div>
 
