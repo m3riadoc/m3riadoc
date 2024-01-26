@@ -22,7 +22,7 @@
 <p align="center">I am familiar with: </p>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,github" alt="My Skills"/>
+        <img width="50" height="50" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,github" alt="My Skills"/>
     </a>
 </div>
 <div align="center">
